@@ -3,3 +3,8 @@ C:\inetpub\wwwroot\TexasOncology\vFeedGrabber\vFeedGrabber\bin\Debug\vFeedGrabbe
 C:\inetpub\wwwroot\TexasOncology\vFeedGrabber\vFeedGrabber\bin\Debug\vFeedGrabber.pdb
 C:\inetpub\wwwroot\TexasOncology\vFeedGrabber\vFeedGrabber\obj\x86\Debug\vFeedGrabber.exe
 C:\inetpub\wwwroot\TexasOncology\vFeedGrabber\vFeedGrabber\obj\x86\Debug\vFeedGrabber.pdb
+C:\inetpub\wwwroot\TexasOncology\FeedGrabber\vFeedGrabber\bin\Debug\vFeedGrabber.exe.config
+C:\inetpub\wwwroot\TexasOncology\FeedGrabber\vFeedGrabber\obj\x86\Debug\vFeedGrabber.exe
+C:\inetpub\wwwroot\TexasOncology\FeedGrabber\vFeedGrabber\obj\x86\Debug\vFeedGrabber.pdb
+C:\inetpub\wwwroot\TexasOncology\FeedGrabber\vFeedGrabber\bin\Debug\vFeedGrabber.exe
+C:\inetpub\wwwroot\TexasOncology\FeedGrabber\vFeedGrabber\bin\Debug\vFeedGrabber.pdb
